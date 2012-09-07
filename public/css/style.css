@@ -1,0 +1,100 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.hero-unit h1{
+  font-size:48px;
+}
+h1,h2{
+  font-weight:normal;
+  text-align:center;
+}
+
+.alert{
+  font-size: 18px;
+  font-weight: 200;
+}
+/*.navbar-inner{
+  background-color:#fdf;
+}*/
+.label{
+  font-size:12px;
+}
+.hero-unit{
+  min-height: 300px;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-color: #FdF;
+}
+
+.hero-unit input{
+  font-size:18px;
+  padding: 5px;
+}
+.hero-unit p{
+  margin-top: 1em;
+}
+
+.hero-unit label{
+  font-size: 16px;
+  font-weight: 200;
+  color: inherit;
+}
+.hero-unit label.radio{
+  font-size: 14px;
+}
+
+.poem{
+  padding-top: 30px;
+}
+
+#lion-stew{
+  background-image: url(/images/Lion_Stew_COLOR.png);
+  background-color: #C0B099;
+}
+
+#a-witchs-brew{
+  background-image: url(/images/A_Witchs_Brew_COLOR.png);
+  background-color: #93B3C0;
+  min-height: 470px;
+}
+a{
+  color: #0033cc;
+}
+footer a{
+  color: #999999;
+}
+
+#counting-sheep{
+  background-position: 380px -150px;
+  background-image: url(/images/Counting_Sheep_COLOR.png);
+  background-color: #C2B097;
+}
+#the-great-bug-squasher{
+  min-height: 450px;
+  background-position: 500px top;
+  background-image: url(/images/The_Great_Bug_Squasher_COLOR.png);
+  background-color: #B0B197;
+}
+#email-input{
+  margin-top: 10px;
+  height: 30px;
+  width: 480px;
+  font-size: 24px;
+  line-height: 1;
+}
+
+
+#the-greatest-dive-never{
+  background-position: right 0px;
+  background-image: url(/images/The_Greatest_Dive_Never_COLOR.png);
+  background-color: #DFBCB6;
+}
+#grandmas-old-chair{
+  background-position: -30px -90px;
+  background-image: url(/images/Grandmas_Old_Chair_COLOR.png);
+  background-color: #BEB4D9;
+  padding-right:0;
+  padding-left:0;
+}
